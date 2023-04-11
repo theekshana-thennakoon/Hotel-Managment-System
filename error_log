@@ -1,0 +1,14 @@
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: nic in /home/flockups/emp.flockups.com/shadow/editemp.php on line 55
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: name in /home/flockups/emp.flockups.com/shadow/editemp.php on line 56
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: phone in /home/flockups/emp.flockups.com/shadow/editemp.php on line 59
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: address in /home/flockups/emp.flockups.com/shadow/editemp.php on line 60
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: jobtype in /home/flockups/emp.flockups.com/shadow/editemp.php on line 62
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: jobtype in /home/flockups/emp.flockups.com/shadow/editemp.php on line 62
+[02-Aug-2022 12:50:56 America/New_York] PHP Notice:  Undefined variable: salary in /home/flockups/emp.flockups.com/shadow/editemp.php on line 73
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: nic in /home/flockups/emp.flockups.com/shadow/editemp.php on line 55
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: name in /home/flockups/emp.flockups.com/shadow/editemp.php on line 56
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: phone in /home/flockups/emp.flockups.com/shadow/editemp.php on line 59
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: address in /home/flockups/emp.flockups.com/shadow/editemp.php on line 60
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: jobtype in /home/flockups/emp.flockups.com/shadow/editemp.php on line 62
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: jobtype in /home/flockups/emp.flockups.com/shadow/editemp.php on line 62
+[02-Aug-2022 12:51:08 America/New_York] PHP Notice:  Undefined variable: salary in /home/flockups/emp.flockups.com/shadow/editemp.php on line 73
